@@ -1,4 +1,4 @@
-module uart_rx (
+module receiver (
     input clk,
     input rst_n,
     input baud_tick,
